@@ -3,6 +3,7 @@ import os
 import subprocess
 import sys
 
+
 parser = argparse.ArgumentParser(
     description='For MacOS, iso2usb can make a bootable USB from a Linux ISO.')
 parser.add_argument(
